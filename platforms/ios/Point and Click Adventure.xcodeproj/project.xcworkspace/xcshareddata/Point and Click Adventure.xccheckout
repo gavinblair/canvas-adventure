@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08A6D07F-5450-482D-9BA3-D5F2A905C66F</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B7811B30516DADAF19C1B17D698EE0B925DDEA08</key>
+		<string>github.com:gavinblair/pixel-game-resize.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B7811B30516DADAF19C1B17D698EE0B925DDEA08</key>
+		<string>www/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:gavinblair/pixel-game-resize.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B7811B30516DADAF19C1B17D698EE0B925DDEA08</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B7811B30516DADAF19C1B17D698EE0B925DDEA08</string>
+			<key>IDESourceControlWCCName</key>
+			<string>www</string>
+		</dict>
+	</array>
+</dict>
+</plist>
